@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **React,Angular,Java Spring Boot, C#.Net**
+- 💬 Ask me about **React,React Native, Angular,Java Spring Boot, C#.Net**
 
 - 📫 How to reach me **wahomejipheens@gmail.com**
 
