@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hello 👋, I am JIPHEENS</h1>
-<h3 align="center">A passionate FullStack Developer from Nairobi Kenya The +254 <svg width="100" height="100" viewBox="0 0 512 512">
-  <rect x="0" y="0" width="512" height="512" fill="#000000" />
-  <path d="M256 0C114.6 0 0 114.6 0 256s114.6 256 256 256 256-114.6 256-256S397.4 0 256 0z" fill="#FFD700" />
-  <path d="M256 48C123.4 48 0 161.4 0 256s123.4 192 256 192 256-123.4 256-192S388.6 48 256 48z" fill="#FFFFFF" />
-</svg></h3>
+<h3 align="center">A passionate FullStack Developer from Nairobi Kenya The +254 </h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jipheens&show_icons=true&locale=en&layout=compact" alt="jipheens" /></p
                                                                                                                                                               <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jipheens&" alt="jipheens" /></p>
