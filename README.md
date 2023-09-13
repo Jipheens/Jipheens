@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Bank project**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **React,React Native, Angular,Java Spring Boot, C#.Net**
 
