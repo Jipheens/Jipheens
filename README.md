@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **React, Angular,Java Spring Boot, C#.Net**
 
-- 📫 How to reach me **wahomejipheens@gmail.com**
+- 📫 How to reach me **jipheens@gmail.com**
 
 - 📄 Know about my experiences [https://portfolio-jipheens.vercel.app/](https://portfolio-jipheens.vercel.app/)
 
