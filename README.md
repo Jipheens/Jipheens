@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello Guys 👋, I am JIPHEENS</h1>
 <h3 align="center">
   
-  Am a passionate FullStack Developer from Nairobi Kenya.   The 254 🇰🇪.
+  A passionate FullStack Developer from Nairobi Kenya.   The 254 🇰🇪.
 </h3>
 
 
