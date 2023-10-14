@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jipheens&theme=dark&" alt="jipheens" /></a> </p>
 
-- 🔭 I’m currently working on ** An ERP  System Project**
+- 🔭 I’m currently working on ** An ERP  Banking System Project**
 
 - 🌱 I’m currently learning **React Native**
 
