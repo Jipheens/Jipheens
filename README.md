@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React, Angular,Java Spring Boot, C#.Net**
+- 💬 Ask me about **React, Angular,TypeScript, Java Spring Boot, C#.Net**
 
 - 📫 How to reach me **wahomejipheens@gmail.com**
 
