@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **React, Angular,TypeScript, Java Spring Boot, C#.Net**
 
-- 📫 How to reach me **wahomejipheens@gmail.com** or **jom**
+- 📫 How to reach me **wahomejipheens@gmail.com** TEL: **+254 708 586 099**
 
 - 📄 Know about my experiences [https://portfolio-jipheens.vercel.app/](https://portfolio-jipheens.vercel.app/)
 
