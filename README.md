@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi Guys, 👋 I am JIPHEENS</h1>
+<h1 align="center">Hi Guys, 👋 I am JIPHEENS</h1>
+<h1 align="center">Hi Guys, 👋 I am JIPHEENS</h1>
 <h3 align="center">  
   A passionate  FullStack Developer from Nairobi Kenya. +254 🇰🇪.
 </h3>
