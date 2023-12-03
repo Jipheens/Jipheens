@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ** An ERP   System Project**
 
-- 🌱 I’m currently learning **Native**
+- 🌱 I’m currently learning **DART**
 
 - 💬 Ask me about **React, Angular,TypeScript, Java Spring Boot, C#.Net**
 
