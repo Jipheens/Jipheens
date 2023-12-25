@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">H Guys, 👋 I am Jipheens.</h1>
+<h1 align="center">Hey Guys, 👋 I am Jipheens.</h1>
 <h3 align="center"> Am a passionate  FullStack Developer from Nairobi Kenya. +254 🇰🇪</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jipheens&theme=dark&show_icons=true&locale=en&layout=compact" alt="jipheens" /></p
                                                                                                                                                                          
