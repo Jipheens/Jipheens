@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jipheens&theme=dark&" alt="jipheens" /></a> </p>
 
-- 🔭 I’m currently  working on ** An ERP roject**
+- 🔭 I’m currently  working on ** An ERP Project**
 
 - 🌱 I’m currently learning **REACT NATIVE**
 
