@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **wahomejipheens@gmail.com ,jwahome@emtechhouse**
 - 
-
 - 📄 Know about my experiences [https://portfolio-jipheens.vercel.app/](https://portfolio-jipheens.vercel.app/)
 
 - ⚡  **hit me up so we can talk😀😀**
