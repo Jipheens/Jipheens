@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **REACT NATIVE**
 
-- 💬 Ask me about **React,Angular,TypeScript,Java Spring Boot, C# .NET**
+- 💬 Ask me about **React, Angular,TypeScript,Java Spring Boot, C# .NET**
 
 - 📫 How to reach me **wahomejipheens@gmail.com** 
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 - ⚡  **hit me up so we can talk😀😀**
 
-<h3 align="left">Lets  Connect:</h3>
+<h3 align="left">Lets Connect:</h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/jipheens-wahome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jipheens" height="30" width="40" /></a>
